@@ -14,3 +14,5 @@
    
   * Run ```npm run dev``` to run live server.
   
+  ## Preview
+  ![portfolio image](https://user-images.githubusercontent.com/84366215/139292136-b2ce1e3e-0638-4912-8085-c89f97b7d1f7.png)
