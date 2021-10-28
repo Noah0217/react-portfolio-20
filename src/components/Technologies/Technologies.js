@@ -4,9 +4,40 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
 const Technologies = () =>  (
-  <div>
-    Technologies
-  </div>
+  <Section id = "tech">
+    <SectionDivider />
+      <SectionTitle>Technologies</SectionTitle>
+    <SectionText>
+      I've worked on many projects that include technologies from front-end and back-end applications.
+    </SectionText>
+    <List>
+      <ListItem>
+        <DiFirebase size = '3rem' />
+        <ListContainer>
+          <ListTitle>Back-End</ListTitle>
+          <ListParagraph>
+            Node <br />
+            Express <br />
+            SQL <br />
+            MongoDB <br />
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <DiReact size = '3rem' />
+        <ListContainer>
+          <ListTitle>Front-End</ListTitle>
+          <ListParagraph>
+            JavaScript <br />
+            React <br />
+            HTML5 <br />
+            CSS3 <br />
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+    </List>
+
+  </Section>
 );
 
 export default Technologies;

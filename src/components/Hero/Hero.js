@@ -12,7 +12,7 @@ Welcome To <br />
 My Portfolio
       </SectionTitle>
       <SectionText>
-       
+     
       </SectionText>
     </LeftSection>
   </Section>

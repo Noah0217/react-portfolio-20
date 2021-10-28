@@ -43,9 +43,12 @@ const Timeline = () => {
   // }, []);
 
   return (
-    <div>
-      Timeline
-    </div>
+    <Section id = "about">
+      <SectionTitle>About Me</SectionTitle>
+      <SectionText>
+        Hello, my name is Noah and I am a Developer that likes learning new things to help me do better. In my free time I like to play video games, and watch soccer games.
+      </SectionText>
+    </Section>
   );
 };
 
