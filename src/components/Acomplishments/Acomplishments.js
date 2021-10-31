@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 /*Will add in future*/
 
-const Acomplishments = () => (
+const Acomplishments = () => (      /*Remove div when needing to change*/
   <div>
   </div> 
 );
