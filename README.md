@@ -2,6 +2,9 @@
 
 <h2>Description<br><h4>A portfolio built with React.Js that shows my skills and projects I've created.
   
+## Deployed Application
+https://react-portfolio-noah.herokuapp.com/
+  
 <h3 align="left">Languages and Tools</h3>
 
 - VS Code
