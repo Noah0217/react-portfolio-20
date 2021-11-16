@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Weather Dashboard',
+    title: 'Clean Freak',
     description: "Weather dashboard designed for easy and quick access to any locations weather, just type in your desired location and results will appear with your current weather and the next 5 day forecast for that location.",
-      image: '/images/weatherapps.jpg',
-      tags: ['JavaScript', 'HTML5', 'CSS3'],
-    source: 'https://github.com/Noah0217/weather-dashboard-6',
-    visit: 'https://noah0217.github.io/weather-dashboard-6/',
+      image: '/images/cleaning-image.jpg',
+      tags: ['MongoDB', 'Express', 'React', 'Node'],
+    source: 'https://github.com/brandon-stewart-rgb/clean-freak/tree/main',
+    visit: '',
     id: 2,
   },
   {
@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2017, text: '', },
+  { year: 2018, text: '', },
+  { year: 2019, text: '', },
+  { year: 2020, text: '', },
+  { year: 2021, text: '', },
 ];
