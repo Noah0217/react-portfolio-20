@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Clean Freak',
-    description: "Weather dashboard designed for easy and quick access to any locations weather, just type in your desired location and results will appear with your current weather and the next 5 day forecast for that location.",
+    description: "Clean Freak, an app built using MongoDB, Express, React and Node.js. Clean Freak is an application that can be used to schedule cleaning appointments for your needs.",
       image: '/images/cleaning-image.jpg',
       tags: ['MongoDB', 'Express', 'React', 'Node'],
     source: 'https://github.com/brandon-stewart-rgb/clean-freak/tree/main',
