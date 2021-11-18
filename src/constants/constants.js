@@ -32,7 +32,7 @@ export const projects = [
     image: '/images/pen-paper.jpg',
     tags: ['Node', 'Express', 'JavaScript'],
     source: 'https://github.com/Noah0217/note-taker-11',
-    visit: 'https://note-taker-noah.herokuapp.com/',
+    visit: 'https://clean-freak.herokuapp.com/',
     id: 3,
   },
 ];
