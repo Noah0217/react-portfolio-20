@@ -23,7 +23,7 @@ export const projects = [
       image: '/images/cleaning-image.jpg',
       tags: ['MongoDB', 'Express', 'React', 'Node'],
     source: 'https://github.com/brandon-stewart-rgb/clean-freak/tree/main',
-    visit: '',
+    visit: 'https://clean-freak.herokuapp.com/',
     id: 2,
   },
   {
@@ -32,7 +32,7 @@ export const projects = [
     image: '/images/pen-paper.jpg',
     tags: ['Node', 'Express', 'JavaScript'],
     source: 'https://github.com/Noah0217/note-taker-11',
-    visit: 'https://clean-freak.herokuapp.com/',
+    visit: 'https://note-taker-noah.herokuapp.com/',
     id: 3,
   },
 ];
