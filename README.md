@@ -10,7 +10,6 @@ https://react-portfolio-noah.herokuapp.com/
 - VS Code
 - React.Js
 - Next.Js
-- JavaScript
 <h3 align="left">Installation</h3>
    
   * ```npm i``` to install all required dependencies.
