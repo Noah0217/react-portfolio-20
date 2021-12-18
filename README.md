@@ -1,16 +1,16 @@
 # Personal React Portfolio
 
-<h2>Description<br><h4>A portfolio built with React.Js that shows my skills and projects I've created.
+<h2>Description<br><h2>A portfolio built with React.Js that shows my skills and projects I've created.
   
 ## Deployed Application
 https://react-portfolio-noah.herokuapp.com/
   
-<h3 align="left">Languages and Tools</h3>
+<h2 align="left">Languages and Tools</h2>
 
 - VS Code
 - React.Js
 - Next.Js
-<h3 align="left">Installation</h3>
+<h2 align="left">Installation</h2>
    
   * ```npm i``` to install all required dependencies.
    
