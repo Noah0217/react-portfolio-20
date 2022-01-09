@@ -1,6 +1,6 @@
-## Personal React Portfolio
+# Personal React Portfolio
 
-<h2>Description<br><h2>A portfolio built with React.Js that shows my skills and projects I've created.
+<h2>Description<br><h2>  <h4>A portfolio built with React.Js that shows my skills and projects I've created.<h4>
   
 ## Deployed Application
 https://react-portfolio-noah.herokuapp.com/
