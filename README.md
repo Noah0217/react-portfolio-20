@@ -8,8 +8,8 @@ https://react-portfolio-noah.herokuapp.com/
 <h2 align="left">Languages and Tools</h2>
 
 - VS Code
-- React.Js
-- Next.Js
+- React.js
+- Next.js
 <h2 align="left">Installation</h2>
    
   * ```npm i``` to install all required dependencies.
