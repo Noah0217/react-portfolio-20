@@ -16,7 +16,7 @@ https://react-portfolio-noah.herokuapp.com/
    
   * Run ```npm run dev``` to run live server.
   
-  * Click local host 3000 link to view live site.
+  * Click ```local host 3000``` link to view live site.
   
   ## Preview
   ![portfolio image](https://user-images.githubusercontent.com/84366215/139292136-b2ce1e3e-0638-4912-8085-c89f97b7d1f7.png)
