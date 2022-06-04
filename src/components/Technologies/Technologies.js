@@ -19,6 +19,8 @@ const Technologies = () =>  (
             Node <br />
             Express <br />
             SQL <br />
+            NoSQL <br />
+            OOP <br />
             MongoDB <br />
           </ListParagraph>
         </ListContainer>
@@ -30,6 +32,8 @@ const Technologies = () =>  (
           <ListParagraph>
             JavaScript <br />
             React <br />
+            Redux <br />
+            RESTful APIs <br />
             HTML5 <br />
             CSS3 <br />
           </ListParagraph>
