@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
-import { AiFillGithub, AiTwotoneMail, AiFillLinkedin } from 'react-icons/ai'; /*icons for socials*/ 
+import { AiFillGithub, AiTwotoneMail, AiFillLinkedin, AiTwotoneFile } from 'react-icons/ai'; /*icons for socials*/ 
 import { DiCssdeck } from 'react-icons/di';
 
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons, Span } from './HeaderStyles';
@@ -40,6 +40,9 @@ const Header = () =>  (
         </SocialIcons>
         <SocialIcons href= "mailto: noahm0217@gmail.com">
           <AiTwotoneMail size="3rem"/>
+        </SocialIcons>
+        <SocialIcons href= "https://docs.google.com/document/d/1fKAy3e2gS0TpRoYT0uMgJAchfg5Se5CD212T1RcVp5c/edit?usp=sharing" alt="Resume">
+          <AiTwotoneFile size="3rem"/>
         </SocialIcons>
       </Div3>
   </Container>
