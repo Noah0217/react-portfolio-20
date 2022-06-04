@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/videogamemusic.jpeg',
       tags: ['JavaScript', 'HTML5', 'CSS3'],
     source: 'https://github.com/ewalker518/game-go',
-    visit: 'https://ewalker518.github.io/game-go',
+    visit: 'https://ewalker518.github.io/game-stork/',
     id: 0,
   },
   {
