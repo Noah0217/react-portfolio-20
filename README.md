@@ -1,20 +1,22 @@
-# Personal React Portfolio
+# Noah's React Portfolio
 
-<h2>Description<br><h4>A portfolio built with React.Js that shows my skills and projects I've created.
+<h2>Description<br><h2>  <h4>A portfolio built with React.Js and Next.JS that shows my skills and projects I've created.<h4>
   
-<h3 align="left">Languages and Tools</h3>
+## Deployed Application
+https://react-portfolio-noah.herokuapp.com/
+  
+<h2 align="left">Languages and Tools</h2>
 
 - VS Code
-- React.Js
-- Next.Js
-- JavaScript
-<h3 align="left">Installation</h3>
+- React.js
+- Next.js
+<h2 align="left">Installation</h2>
    
   * ```npm i``` to install all required dependencies.
    
   * Run ```npm run dev``` to run live server.
   
-  * Click local host 3000 link to view live site.
+  * Click ```local host 3000``` link to view live site.
   
   ## Preview
   ![portfolio image](https://user-images.githubusercontent.com/84366215/139292136-b2ce1e3e-0638-4912-8085-c89f97b7d1f7.png)
