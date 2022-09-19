@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id = "about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Hello, my name is Noah I am a software developer from Salt Lake City, UT. I like learning new technologies and using them to build fun and creative applications. When I'm not programming I like to play video games, and watch soccer games.
+      I have just over a year of experience as a Front-End Developer. I have already created/contributed to dozens of web applications and projects. Prior to my experience, I attended the University of Utah Full-Stack Web Development Coding Bootcamp, where I learned Full-Stack Web Development technologies over 6 months and created projects, and learned what it's like to be a developer with hands-on experiences.
       </SectionText>
     </Section>
   );
