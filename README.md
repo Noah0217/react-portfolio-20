@@ -3,7 +3,7 @@
 <h2>Description<br><h2>  <h4>A portfolio built with React.Js and Next.JS that shows my skills and projects I've created.<h4>
   
 ## Deployed Application
-https://react-portfolio-noah.herokuapp.com/
+https://noah-mejia-portfolio.netlify.app/
   
 <h2 align="left">Languages and Tools</h2>
 
