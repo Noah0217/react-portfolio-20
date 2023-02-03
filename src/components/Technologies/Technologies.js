@@ -17,6 +17,8 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Node <br />
+            Firebase <br />
+            RESTful APIs <br />
             Express <br />
             SQL <br />
             NoSQL <br />
@@ -31,9 +33,11 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             JavaScript <br />
+            TypeScript <br />
             React <br />
+            Vue <br />
             Redux <br />
-            RESTful APIs <br />
+            SASS <br />
             HTML5 <br />
             CSS3 <br />
           </ListParagraph>
