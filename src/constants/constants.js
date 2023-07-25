@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'DoughRise',
-    description: "Built using Vue and TypeScript on front end. Doughrise is a free budgeting app made with millennials in mind. Review your budgets and track your spending on the go. Responsible for homepage redesign and create a budget redesign.",
+    title: 'Budgetwise',
+    description: "Built using Vue and TypeScript on front end. Budgetwise is a free budgeting AI app made with millennials in mind. Review your budgets and track your spending on the go. Responsible for homepage redesign and create a budget redesign.",
       image: 'https://user-images.githubusercontent.com/84366215/216530260-16709dbf-7e4c-475f-a641-80f296506fe3.png',
       tags: ['TypeScript', 'Vue', 'SASS', 'Firebase'],
-      source: 'https://www.linkedin.com/company/doughrise/',
-    visit: 'https://doughrise.co/',
+      source: 'https://www.linkedin.com/company/budget-wise/',
+    visit: 'https://budgetwise.co/',
     id: 2,
   },
   {
